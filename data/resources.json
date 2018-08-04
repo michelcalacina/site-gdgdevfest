@@ -1,0 +1,116 @@
+{
+  "title": "GDG Women Techmakers",
+  "description": "O Techday Manaus abordará as áreas relacionadas ao ciclo de desenvolvimento de software, onde desenvolvedoras, testadoras, designers e gestoras abordarão temas relacionados a sua vivência no ciclo. Além disso, empreendedoras e líderes de comunidade estarão a frente de painéis temáticos para debate da atuação de mulheres liderando comunidades e a frente de negócios.",
+  "keywords": "event, wtm, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
+  "dates": "28 de Abril, 2018",
+  "locationAddressShort": "Manaus, Am",
+  "motto": "Be a GDG. Be a Hero!",
+  "playIcon": "See how it was in 2015",
+  "c4p": "Become a speaker",
+  "buyTicket": "COMPRE SEU INGRESSO",
+  "backToTop": "VOLTAR PARA O TOPO",
+  "subscribe": "Inscreva-se",
+  "yourEmail": "Seu e-mail",
+  "subscribeNote": "Sem spam, apenas as ultimas notícias e atualizações!",
+  "contactUs": "Contate-nos",
+  "ticketsTitle": "COMPRE SEU INGRESSO",
+  "ticketsDetails": "Os ingressos oferecem acesso a todas as seções da conferência. A acomodação não está incluída no preço do ingresso.",
+  "close": "Close",
+  "soldOutTickets": "ESGOTADO",
+  "socialTitle": "Social",
+  "socialMotto": "Add to circles, like, follow or connect with us on",
+  "beforeHashtag": "What's up",
+  "clickToViewPhotos": "Clique aqui para ver mais fotos",
+  "partners": "Parceiros",
+  "becomePartner": "SEJA UM PARCEIRO",
+  "featuredVideosTitle": "Featured #DFUA '15 Sessions",
+  "featuredVideosViewAll": "View all videos",
+  "featuredPeopleTitle": "Palestrantes",
+  "featuredPeopleViewAll": "Ver todos os Palestrantes",
+  "action": "See how it was",
+  "locationTitle": "OAB AMAZONAS",
+  "locationDescription": "OAB AMAZONAS",
+  "locationAddress": "Umberto Calderaro, 2000 · (92) 3642-0016",
+  "organizerTitle": "Organização",
+  "aboutOrganizers": "O Techday Manaus é organizado pelo Women Techmaker e GDG Manaus.",
+  "openTeamPage": "GDG Manaus",
+  "whatIsWtm": "O que é WTM?",
+  "aboutWtm": "Women Techmakers é um programa criado em 2014 pelo Google cujo objetivo é dar visibilidade, recursos e criar comunidades para incentivar a participação das mulheres na tecnologias.",
+  "readMore": "Ler Mais",
+  "copyLink": "Copiar link",
+  "filteredBy": "filtered by",
+  "clearAll": "Limpar tudo",
+  "filter": "Filter",
+  "latestNews": "Latest news",
+  "continueReading": "Continuar lendo",
+  "viewPresentation": "View presentation",
+  "viewVideo": "View video",
+  "skills": "Skills",
+  "share": "Share",
+  "shareWith": "Share with",
+  "mySchedule": "My Schedule",
+  "browseMore": "Browse more events",
+  "youShouldSignInSessions": "Sign in to save sessions",
+  "youShouldSignInRating": "Sign in to rate sessions",
+  "offlineMessage": "You are offline",
+  "removedFromSchedule": "Removed from My Schedule",
+  "addedToSchedule": "Added to My Schedule",
+  "rateSession": "Rate session",
+  "footerBlocks": [
+    {
+      "title": "Para Visitantes",
+      "links": [
+        {
+          "text": "Google Developers",
+          "url": "https://developers.google.com/",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "title": "Para Parceiros",
+      "links": [
+        {
+          "text": "Media Kit",
+          "url": "https://goo.gl/RckXV5",
+          "newTab": true
+        }
+      ]
+    }
+  ],
+  "contactBlock": {
+    "links": [
+      {
+        "text": "gdgmanaus@google.com",
+        "url": "mailto:gdgmanaus@google.com"
+      }
+    ]
+  },
+
+  "statistics": [
+    {
+      "counter": "+400",
+      "caption": "Participantes"
+    },
+    {
+      "counter": "+12",
+      "caption": "Horas"
+    },
+    {
+      "counter": 11,
+      "caption": "Palestras"
+    },
+    {
+      "counter": 2,
+      "caption": "Painéis"
+    },
+    {
+      "counter": 1,
+      "caption": "Coding Dojo"
+    }
+  ],
+  "callToAction": {
+    "videoTitle": "Women Techday 2018",
+    "videoId": "DfMnJAzOFng"
+  }
+}
